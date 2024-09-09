@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/git_test4.dir/git_test4.cpp.o  -o git_test4 
